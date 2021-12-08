@@ -1,0 +1,9 @@
+{
+	"name": "DevadfTriggers",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9af35278-0d26-4bf6-8c06-5fd6adb37435",
+		"tenantId": "75f287ea-e5b1-4323-ab84-500f894fb0b9"
+	}
+}
