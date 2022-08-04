@@ -7,9 +7,6 @@
 		},
 		"ls_storage_connectionString": {
 			"value": ""
-		},
-		"ls_storage1_connectionString": {
-			"value": ""
 		}
 	}
 }
